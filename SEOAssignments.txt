@@ -1,0 +1,33 @@
+Q1. What is SEO and explain the importance of SEO?
+
+SEO, or Search Engine Optimization, is the practice of optimizing your website and its content to improve its visibility and ranking on search engine results pages (SERPs) for relevant keywords and phrases. The ultimate goal of SEO is to increase organic (non-paid) traffic to your website by ensuring it appears higher in search engine results, thereby attracting more visitors who are actively searching for information, products, or services related to your business.
+
+Q3. What are the Benefits of Using Meta Tags?
+
+Meta tags are snippets of code that provide metadata about a webpage. While they don't directly affect the appearance of a webpage, they play a crucial role in search engine optimization (SEO) and can impact how search engines interpret and display your website in search results. Here are some benefits of using meta tags:
+
+1.Improved Search Engine Visibility: Meta tags, such as meta titles and meta descriptions, provide search engines with information about the content of a webpage. By optimizing these tags with relevant keywords and descriptive language, you can increase the likelihood of your website appearing in search engine results for relevant queries, thus improving its visibility.
+
+2.Increased Click-Through Rates: Meta tags also influence how your website appears in search engine results pages (SERPs). A well-crafted meta title and meta description can entice users to click on your website by providing a clear and compelling preview of the content. This can lead to higher click-through rates (CTR) and more traffic to your site.
+
+3.Better User Experience: Meta tags help users understand what a webpage is about before they click on it. By accurately describing the content of your website in the meta description, you can set expectations for users and ensure that they find the information they're looking for when they visit your site. This can result in a better user experience and lower bounce rates.
+
+
+Q5. Define Favicon and give an illustrative example?
+
+A favicon, short for "favorite icon," is a small, often square-shaped icon that appears in web browser tabs, bookmarks, and shortcuts to represent a specific website. Favicons serve as visual identifiers for websites and help users quickly recognize and differentiate between multiple open tabs or bookmarks.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maxine- Your online Maxine store</title>
+   <!-- favicon -->
+   <link rel="Icon" href="./maxinelogo.png" type="image/x-icon">
+</head>
+<body>
+    
+</body>
+</html>
